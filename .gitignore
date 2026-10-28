@@ -3,4 +3,4 @@ venv/
 __pycache__/
 *.pyc
 .vscode/
-.chroma_Db
+.chroma_db
